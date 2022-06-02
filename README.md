@@ -32,3 +32,4 @@ php artisan db:seed --class=CreateUsersSeeder
  username :  company
  password : 123456
 
+# autofixer
